@@ -1,9 +1,11 @@
 # Teemake
-Teemake is a shell script to clone and compile Teeworlds servers .
+Teemake is a python script for creating , configuring and managing Teeworlds servers easily.
+supported modes : 
+- Teeworlds
+- DDrace
+- zCatch
 
 ## how to use
-go to directory you want to install server
 
 `git clone https://github.com/efehubs/Teemake.git
 cd teemake && python3 teemake.py`
-
