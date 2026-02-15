@@ -5,8 +5,5 @@ Teemake is a shell script to clone and compile Teeworlds servers .
 go to directory you want to install server
 
 `git clone https://github.com/efehubs/Teemake.git
-cd teemake && chmod +x && ./teemake.sh`
+cd teemake && python3 teemake.py`
 
-or
-
-`curl -L https://raw.githubusercontent.com/efehubs/Teemake/refs/heads/main/teemake.sh -o teemake.sh && chmod +x teemake.sh && ./teemake.sh`
