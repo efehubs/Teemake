@@ -5,7 +5,8 @@ supported modes :
 - DDrace
 - zCatch
 
-## how to use
+### how to use
 
-`git clone https://github.com/efehubs/Teemake.git
-cd teemake && python3 teemake.py`
+`git clone https://github.com/efehubs/Teemake.git`
+
+`cd teemake && python3 teemake.py`
