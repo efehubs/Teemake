@@ -1,4 +1,5 @@
 # Teemake
+### `Note: This project was made with AI and has not been tested, so use at your own risk.`
 Teemake is a python script for creating , configuring and managing Teeworlds servers easily.
 supported modes : 
 - Teeworlds
